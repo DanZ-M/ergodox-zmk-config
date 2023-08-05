@@ -1,5 +1,5 @@
 include:
 
 - board: nordic_nrf52840_dongle_slicemk
- Shield: slicemk_ergodox_dongle 
+ shield: slicemk_ergodox_dongle 
 
